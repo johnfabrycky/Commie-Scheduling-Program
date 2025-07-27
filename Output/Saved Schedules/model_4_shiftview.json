@@ -1,0 +1,99 @@
+{
+    "monday_lunch_prep": [
+        "Adam McNeil",
+        "Charlie Andrews"
+    ],
+    "monday_lunch_clean": [
+        "Trent Heller",
+        "Zach Larson"
+    ],
+    "monday_dinner_prep": [
+        "Aaron Poetzel",
+        "Elijah Sutton"
+    ],
+    "monday_dinner_clean": [
+        "Alex Gregoriev",
+        "Andres Bustamante",
+        "Matthew Feder"
+    ],
+    "tuesday_lunch_prep": [
+        "Andrew Pressley",
+        "Seth Pierson"
+    ],
+    "tuesday_lunch_clean": [
+        "Alex Gregoriev^",
+        "Andrew Pressley"
+    ],
+    "tuesday_dinner_prep": [
+        "Caden Tieszen",
+        "Jenesis Quiads Manuel"
+    ],
+    "tuesday_dinner_clean": [
+        "Bassel Georgy",
+        "Daniel Bein",
+        "Jacob Reynolds"
+    ],
+    "wednesday_lunch_prep": [
+        "Charlie Andrews",
+        "Zach Larson"
+    ],
+    "wednesday_lunch_clean": [
+        "Jacob Reynolds",
+        "Nathan Parsley"
+    ],
+    "wednesday_dinner_prep": [
+        "Dan Feder",
+        "Trevor Lee"
+    ],
+    "wednesday_dinner_clean": [
+        "Andres Bustamante",
+        "Tobias Michlik",
+        "Trent Heller"
+    ],
+    "thursday_lunch_prep": [
+        "Andrew Deac",
+        "Seth Pierson"
+    ],
+    "thursday_lunch_clean": [
+        "Daniel Bein",
+        "Elliot Humphrey"
+    ],
+    "thursday_dinner_prep": [
+        "John Fabrycky",
+        "Michael Heredia"
+    ],
+    "thursday_dinner_clean": [
+        "Kenneth Okai",
+        "Matthew Feder",
+        "Nathan Parsley"
+    ],
+    "friday_lunch_prep": [
+        "Joseph Gerskovich",
+        "Landon Blakeman"
+    ],
+    "friday_lunch_clean": [
+        "Joseph Gerskovich",
+        "Landon Blakeman"
+    ],
+    "friday_dinner_prep": [
+        "Alexander Bessonov",
+        "Isaac Noteboom"
+    ],
+    "friday_dinner_clean": [
+        "Bassel Georgy",
+        "Elliot Humphrey",
+        "Tobias Michlik"
+    ],
+    "food_truck_2": [
+        "Adam McNeil",
+        "Caden Tieszen"
+    ],
+    "saturday_lunch_prep": [
+        "Kenneth Okai",
+        "Zach Kaiser"
+    ],
+    "saturday_lunch_clean": [
+        "Andrew Deac",
+        "Zach Kaiser"
+    ]
+}

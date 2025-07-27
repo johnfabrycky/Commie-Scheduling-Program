@@ -1,0 +1,114 @@
+{
+    "monday_lunch_prep": [
+        "Adam McNeil",
+        "Charlie Andrews"
+    ],
+    "monday_lunch_clean": [
+        "Jacob Reynolds",
+        "Nathan Parsley"
+    ],
+    "monday_dinner_prep": [
+        "Aaron Poetzel",
+        "Alex Gregoriev^"
+    ],
+    "monday_dinner_clean": [
+        "Alex Gregoriev",
+        "Alexander Bessonov",
+        "Elliot Humphrey",
+        "Zach Kaiser^"
+    ],
+    "tuesday_lunch_prep": [
+        "Jacob Reynolds",
+        "Seth Pierson"
+    ],
+    "tuesday_lunch_clean": [
+        "Alexander Bessonov",
+        "Daniel Bein^",
+        "Jenesis Quiads Manuel"
+    ],
+    "tuesday_dinner_prep": [
+        "Jenesis Quiads Manuel",
+        "Trent Heller"
+    ],
+    "tuesday_dinner_clean": [
+        "Andres Bustamante",
+        "Andrew Deac",
+        "Bassel Georgy",
+        "Matthew Feder"
+    ],
+    "wednesday_lunch_prep": [
+        "Charlie Andrews",
+        "Zach Larson"
+    ],
+    "wednesday_lunch_clean": [
+        "Nathan Parsley",
+        "Trent Heller"
+    ],
+    "wednesday_dinner_prep": [
+        "Michael Heredia",
+        "Trevor Lee"
+    ],
+    "wednesday_dinner_clean": [
+        "Isaac Noteboom",
+        "Jacob Reynolds",
+        "John Fabrycky",
+        "Tobias Michlik"
+    ],
+    "thursday_lunch_prep": [
+        "Elliot Humphrey",
+        "Seth Pierson",
+        "Tobias Michlik"
+    ],
+    "thursday_lunch_clean": [
+        "Andrew Deac",
+        "Landon Blakeman",
+        "Nathan Parsley",
+        "Tobias Michlik"
+    ],
+    "thursday_dinner_prep": [
+        "Caden Tieszen",
+        "Elijah Sutton"
+    ],
+    "thursday_dinner_clean": [
+        "Andres Bustamante",
+        "Daniel Bein",
+        "Landon Blakeman",
+        "Zach Kaiser^"
+    ],
+    "friday_lunch_prep": [
+        "Adam McNeil",
+        "Charlie Andrews",
+        "Dan Feder^",
+        "Joseph Gerskovich"
+    ],
+    "friday_lunch_clean": [
+        "Daniel Bein^",
+        "Joseph Gerskovich",
+        "Landon Blakeman"
+    ],
+    "friday_dinner_prep": [
+        "Kenneth Okai",
+        "Matthew Feder"
+    ],
+    "friday_dinner_clean": [
+        "Adam McNeil",
+        "Bassel Georgy",
+        "Isaac Noteboom"
+    ],
+    "food_truck_2": [
+        "Caden Tieszen",
+        "Zach Larson"
+    ],
+    "saturday_lunch_prep": [
+        "Andrew Deac",
+        "Andrew Pressley^",
+        "Dan Feder^",
+        "Zach Larson^"
+    ],
+    "saturday_lunch_clean": [
+        "Alexander Bessonov",
+        "Andrew Pressley^",
+        "John Fabrycky",
+        "Kenneth Okai"
+    ]
+}
